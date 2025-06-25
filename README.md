@@ -18,8 +18,10 @@ A modern Flutter application designed to showcase a robust implementation of **C
 ## 📲 Download & Test the App
 
 You can install the latest version of the app directly on your Android device by downloading the APK file.
+**[➡️ Download the latest APK here ⬅️](https://github.com/JASLEENKAUR13/blogApp/releases/download/v1.0.0/app-release.apk)**
 
-**[➡️ Download the latest APK here ⬅️]([https://github.com/JASLEENKAUR13/blogApp/releases/download/v1.0.0/app-release.apk]))**
+
+
 
 **How to Install:**
 1. Download the `app-release.apk` file from the link above on your Android device.
