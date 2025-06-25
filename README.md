@@ -19,7 +19,7 @@ A modern Flutter application designed to showcase a robust implementation of **C
 
 You can install the latest version of the app directly on your Android device by downloading the APK file.
 
-**[➡️ Download the latest APK here ⬅️](https://github.com/your-username/your-repo-name/raw/main/apk/app-release.apk)**
+**[➡️ Download the latest APK here ⬅️]([https://github.com/JASLEENKAUR13/blogApp/releases/download/v1.0.0/app-release.apk]))**
 
 **How to Install:**
 1. Download the `app-release.apk` file from the link above on your Android device.
@@ -63,9 +63,9 @@ This project was built with a strong emphasis on creating a professional-grade, 
 
 | Sign In / Sign Up | Blog Feed (Main) | Add New Blog |
 | :---: | :---: | :---: |
-| ![Auth Screens](https://via.placeholder.com/300x600.png?text=Auth+Screens) | ![Blog Feed Screen](https://via.placeholder.com/300x600.png?text=Blog+Feed) | ![Add Blog Screen](https://via.placeholder.com/300x600.png?text=Add+Blog) |
+| ![Sign In](https://github.com/JASLEENKAUR13/blogApp/raw/main/blog%20signup.jpg)|![Sign Up](https://github.com/JASLEENKAUR13/blogApp/raw/main/blog_signin.jpg) | ![Blog Feed Screen](https://github.com/JASLEENKAUR13/blogApp/blob/main/blogmain.jpg)   |
 | **Blog Detail** | **User Profile** | |
-| ![Blog Detail Screen](https://via.placeholder.com/300x600.png?text=Blog+Detail) | ![User Profile Screen](https://via.placeholder.com/300x600.png?text=User+Profile) | |
+|![Add Blog Screen](https://github.com/JASLEENKAUR13/blogApp/blob/main/addblog.jpg) | ![Blog Detail Screen](https://github.com/JASLEENKAUR13/blogApp/blob/main/blogdetail.jpg)  |
 
 
 ---
